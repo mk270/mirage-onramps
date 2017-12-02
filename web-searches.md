@@ -25,8 +25,13 @@ Where would you expect people to go to ask questions or chat about Mirage?
 
 * mailing list
 * discuss.ocaml.org
-* #mirage on freenode (don't know if anyone uses this)
+* #mirage on freenode
 * there probably isn't an open Slack channel
+* OCaml Labs Slack channel (lightweight invitation protocol)
+* the wiki, or some kind of written documentation
+* Stack Overflow ?
+* shouldn't be Facebook or Ricochet IM
+* the bug trackers - need user-centric as well as developer-centric
 
 
 Remarks
@@ -46,3 +51,6 @@ OCaml website
 I found a 33 part video on youtube. It claimed to be the first english
 language video tutorial; after the first dozen five-minute videos, I was
 able to get going by myself
+
+There is a number of things which could be described as the wiki, and none
+of them is super well curated
